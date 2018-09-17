@@ -1,0 +1,2 @@
+# Dicee
+Random number generator
